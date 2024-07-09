@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Data-driven projects that require in-depth analysis, visualization, and interpretation of data.
   I'm excited to work with others on projects that leverage data to solve real-world problems, especially in the healthcare and Finance sector.
   
-- 📫 How to reach me, via **[LinkedIn](https://www.linkedin.com/in/fizapathan/)** or email at **fizapathan2102@example.com** .
+- 📫 How to reach me, via **[LinkedIn](https://www.linkedin.com/in/fizapathan/)** or email at **fizapathan2102@gmail.com** .
   
 - 😄 Pronouns: She/Her
   
