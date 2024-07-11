@@ -4,7 +4,7 @@
   I'm particularly passionate about how data can drive informed decision-making and innovation in various sectors.
   
 - 🌱 I’m currently learning Advanced data analysis techniques, machine learning, and healthcare-specific data tools and concepts.
-  I'm also improving my proficiency in Python and R for data manipulation and visualization.
+  I'm also improving my proficiency in Python for data manipulation and visualization.
   
 - 🤝 I’m looking to collaborate on Data-driven projects that require in-depth analysis, visualization, and interpretation of data.
   I'm excited to work with others on projects that leverage data to solve real-world problems, especially in the healthcare and Finance sector.
