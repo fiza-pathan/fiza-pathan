@@ -14,7 +14,7 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: ***I once hiked up a mountain just to get the perfect sunrise shot, and ended up using that photo as the background for a data visualization project.
-  Turns out, nature and data make a great team!😃🤭😃***
+  Turns out, nature and data make a great team!😃😃***
 
 
 <!---
