@@ -1,6 +1,8 @@
 Hey there...
 It's Fiza here!
-  
+
+Let's share, explore & learn together!!!😊🤞✨
+
 Best way to connect over **[LinkedIn](https://www.linkedin.com/in/fizapathan/)** or email at **fizapathan2102@gmail.com**.
   
 
